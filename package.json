@@ -1,6 +1,7 @@
 {
   "name": "tiptap-packages",
   "private": true,
+  "version": "1.32.1.bgtor",
   "workspaces": [
     "packages/*"
   ],
